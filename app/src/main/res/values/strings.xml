@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BUTTON</string>
+    <string name="textview">Textview</string>
+    <string name="edittext">Edittext</string>
+    <string name="button">Button</string>
+    <string name="enter_a_number_1_1000">Enter a number (1-1000)</string>
+    <string name="switch_to_english">Switch to English</string>
+    <string name="პასუხი">პასუხი</string>
+    <string name="_1_1000">შეიყვანე რიცხვი 1-დან 1000-მდე</string>
+    <string name="gadacvla">გადაცვალე ინგლისურზე</string>
+    <string name="pasuxismigeba">პასუხის მიღება</string>
+</resources>
